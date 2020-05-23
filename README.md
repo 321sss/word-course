@@ -1,0 +1,2 @@
+# word-course
+word - repositories
